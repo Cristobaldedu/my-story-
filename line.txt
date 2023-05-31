@@ -33,3 +33,20 @@ bash
 Copy code
 git diff --staged
 请注意，只有在你执行 git commit 后，你的改动才会被保存为一个新的提交。然后，你可以使用 git push 将这个新的提交推送到GitHub。
+
+
+
+
+
+
+# Comment 
+Gitignore releated -----
+
+
+Git rm --cached -r
+.DS_Store 
+
+Git init
+Git add 
+Git status 
+Git commit -m 
