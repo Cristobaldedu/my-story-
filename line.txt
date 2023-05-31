@@ -50,3 +50,17 @@ Git init
 Git add 
 Git status 
 Git commit -m 
+
+
+
+
+----------git clone
+example:
+git clone https://github.com/your-username/my-repo.git
+
+-------gir branch and merging 
+Git branch <branchName>
+Git branch (show all the branch)
+Git checkout <Branchname> (switch to the other branch)
+
+Git merge <branchName>
